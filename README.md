@@ -1,6 +1,6 @@
 <h1> Описание </h1>
 
-За основу данного проекта я взял маршрут <b> Титаника </b>. 
+За основу данного проекта я взял маршрут <b> Титаника</b>. 
 
 <img src="https://static.vecteezy.com/system/resources/thumbnails/000/217/374/small_2x/vector-icebreaker-ship-illustration.jpg">
        
